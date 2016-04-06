@@ -1,0 +1,7 @@
+hello bit!
+child -> g_val:9 val:11
+child-> pid:3738 ppid:3737
+g_val:9 val:11
+father-> g_val:8 val:10
+father-> pid:3737 ppid:3116
+g_val:8 val:10
